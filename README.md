@@ -87,13 +87,9 @@ monitoring-ruangan-arduino/
 ├── code/
 │   └── monitoring_ruangan.ino
 │
-├── docs/
-│   └── laporan.pdf
-│
 ├── images/
-│   ├── alat.jpg
-│   ├── wiring.jpg
-│   └── flowchart.png
+│   ├── alat-running.png.jpg
+│   ├── alat-startup.png.png
 │
 ├── LICENSE
 └── README.md
